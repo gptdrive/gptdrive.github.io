@@ -48,6 +48,6 @@ If you have any technical issues or queries about these terms, please contact: [
 
 ## About us
 
-GPTDrive is owned and operated by [Raccoon DevLab](https://raccdevman.github.io/).
+GPTDrive is owned and operated by [Raccoon DevLab](https://gptdrive.github.io/).
 
 **By using the GPTDrive app, you agree to these Terms of Service.**
