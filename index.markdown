@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# GPTDrive
-
 ![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/app_logo.png)
 
 GPTDrive is a simplified application tailored to provide easy access and management for your AI conversations with powerful chatbots like ChatGPT, Bard, and BingChat.
