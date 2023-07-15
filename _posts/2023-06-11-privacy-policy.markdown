@@ -11,9 +11,18 @@ As developers of GPTDrive, we recognize our responsibility to accurately represe
 
 ## Limited Use
 
-GPTDrive, utilizing Google API Services, safeguards your data. We only access necessary data for app functionality and uphold transparency, security, and minimum data access principles. We comply with Google's Terms of Service, API Services User Data Policy, including Limited Use requirements.
+### 1. signin
 
-(App’s) use and transfer to any other app of information received from Google APIs will adhere to Google API Services User Data Policy, including the Limited Use requirements.
+![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_signin_button.png)
+
+ This button will initiate the sign-in process and prompt you to authorize access to your Google Drive account.
+
+![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_drive_button.png)
+
+ you can save your chat to your personal Google Drive storage.
+ At this time, the application does not collect any data.
+
+(App’s) use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
 ## Accurate Representation of Identity and Intent
 
