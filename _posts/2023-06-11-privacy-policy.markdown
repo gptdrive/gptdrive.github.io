@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "User Data Policy"
+title:  "Privacy Policy"
 date:   2023-06-11 16:26:09 +0900
 categories: privacy
 ---
@@ -11,11 +11,13 @@ As developers of GPTDrive, we recognize our responsibility to accurately represe
 
 ## Limited Use
 
-### 1. signin
+#### 1. signin
 
 ![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_signin_button.png)
 
  This button will initiate the sign-in process and prompt you to authorize access to your Google Drive account.
+
+#### 2. google drive button
 
 ![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_drive_button.png)
 
