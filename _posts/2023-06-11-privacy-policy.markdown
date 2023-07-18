@@ -12,7 +12,7 @@ As developers of GPTDrive, we recognize our responsibility to accurately represe
 This application does not collect any data at any stage. It simply facilitates smooth data transfer via your Google Drive through the Google API.
 
 [Click this link to see a video on how data flows.](https://www.youtube.com/watch?v=eS3Aol2JP6U)
-- video : https://www.youtube.com/watch?v=eS3Aol2JP6U
+- video : [https://www.youtube.com/watch?v=eS3Aol2JP6U](https://www.youtube.com/watch?v=eS3Aol2JP6U)
 
 ## Limited Use
 
