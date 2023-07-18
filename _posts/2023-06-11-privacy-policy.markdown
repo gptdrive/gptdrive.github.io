@@ -9,11 +9,12 @@ categories: privacy
 
 As developers of GPTDrive, we recognize our responsibility to accurately represent our identity and intent when accessing Google user data through Google API Services. Our use of these services includes Google Sign-In, for user authentication, which provides us with access to user data such as your email, id-token, and profile information. This information is not used beyond the functionality of the application and we do not have direct access to it.
 
+[Click this link to see a video on how data flows.](https://www.youtube.com/watch?v=eS3Aol2JP6U)
+- video : https://www.youtube.com/watch?v=eS3Aol2JP6U
+
 ## Limited Use
 
-
-[Click this link to see a video on how to use it and how data flows.](https://www.youtube.com/watch?v=eS3Aol2JP6U)
-- video : https://www.youtube.com/watch?v=eS3Aol2JP6U
+The application does not collect any data at any step.
 
 #### 1. GPTDrive extension signin
 
@@ -26,7 +27,6 @@ As developers of GPTDrive, we recognize our responsibility to accurately represe
 ![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_drive_button.png)
 
  you can save your chat to your personal Google Drive storage.
- At this time, the application does not collect any data.
 
 #### 3. GPTDrive application signin
 
@@ -38,9 +38,12 @@ As developers of GPTDrive, we recognize our responsibility to accurately represe
 
 ![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_android_sync_1.png)
 
+ Sync your data to Google Drive using the Sync button
+
 ![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_android_sync_2.png)
 
- Sync your data to Google Drive using the Sync button and tap the filename to view the content.
+ Tap the filename to view the content.
+
 
  (App’s) use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
