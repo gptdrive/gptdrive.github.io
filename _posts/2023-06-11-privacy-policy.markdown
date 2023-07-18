@@ -11,20 +11,38 @@ As developers of GPTDrive, we recognize our responsibility to accurately represe
 
 ## Limited Use
 
-#### 1. signin
+
+[Click this link to see a video on how to use it and how data flows.](https://www.youtube.com/watch?v=eS3Aol2JP6U)
+- video : https://www.youtube.com/watch?v=eS3Aol2JP6U
+
+#### 1. GPTDrive extension signin
 
 ![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_signin_button.png)
 
  This button will initiate the sign-in process and prompt you to authorize access to your Google Drive account.
 
-#### 2. google drive button
+#### 2. GPTDrive extension google drive button
 
 ![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_drive_button.png)
 
  you can save your chat to your personal Google Drive storage.
  At this time, the application does not collect any data.
 
-(App’s) use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
+#### 3. GPTDrive application signin
+
+![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_android_signin.png)
+
+ Also, you can sign in to GPTDrive application with the same account and view Google Drive data on your mobile device.
+
+#### 4. GPTDrive application sync button
+
+![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_android_sync_1.png)
+
+![Image](https://raw.githubusercontent.com/gptdrive/gptdrive.github.io/main/_posts/assets/use_android_sync_2.png)
+
+ Sync your data to Google Drive using the Sync button and tap the filename to view the content.
+
+ (App’s) use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements.
 
 ## Accurate Representation of Identity and Intent
 
