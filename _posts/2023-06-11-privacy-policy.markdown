@@ -9,12 +9,12 @@ categories: privacy
 
 As developers of GPTDrive, we recognize our responsibility to accurately represent our identity and intent when accessing Google user data through Google API Services. Our use of these services includes Google Sign-In, for user authentication, which provides us with access to user data such as your email, id-token, and profile information. This information is not used beyond the functionality of the application and we do not have direct access to it.
 
+This application does not collect any data at any stage. It simply facilitates smooth data transfer via your Google Drive through the Google API.
+
 [Click this link to see a video on how data flows.](https://www.youtube.com/watch?v=eS3Aol2JP6U)
 - video : https://www.youtube.com/watch?v=eS3Aol2JP6U
 
 ## Limited Use
-
-The application does not collect any data at any step.
 
 #### 1. GPTDrive extension signin
 
